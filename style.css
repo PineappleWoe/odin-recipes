@@ -25,6 +25,9 @@ body{
     background-color: #eeeeee;
     text-align: center;
 }
+.img-container img{
+    width: 100%;
+}
 .img-container p{
     font-size: 14px;
     font-style: italic;
